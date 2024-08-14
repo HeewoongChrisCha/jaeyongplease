@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/create.png</file>
+        <file>resource/exit.png</file>
+        <file>resource/loginin.png</file>
+        <file>resource/check.png</file>
+        <file>resource/deposit.png</file>
+        <file>resource/in.png</file>
+        <file>resource/withdrawl.png</file>
+    </qresource>
+</RCC>
